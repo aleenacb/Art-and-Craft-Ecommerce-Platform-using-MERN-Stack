@@ -11,4 +11,8 @@ const dbconnection = async () => {
     }
 }
 
+<<<<<<< HEAD
 module.exports = dbconnection;
+=======
+module.exports = dbconnection;
+>>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3

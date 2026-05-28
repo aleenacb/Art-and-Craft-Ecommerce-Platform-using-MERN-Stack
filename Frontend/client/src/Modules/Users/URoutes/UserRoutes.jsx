@@ -37,4 +37,8 @@ function UserRoutes() {
   );
 }
 
+<<<<<<< HEAD
 export default UserRoutes;
+=======
+export default UserRoutes;
+>>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3

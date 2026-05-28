@@ -23,4 +23,8 @@ const bookingschema = new mongoose.Schema({
     paymentInfo: { type: Object, default: {} }
 })
 
+<<<<<<< HEAD
 module.exports = mongoose.model("Bookingtable", bookingschema)
+=======
+module.exports = mongoose.model("Bookingtable", bookingschema)
+>>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3

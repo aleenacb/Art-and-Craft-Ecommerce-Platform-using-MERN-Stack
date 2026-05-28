@@ -144,4 +144,8 @@ const s = {
   primaryBtn:{ padding: '14px 32px', background: 'linear-gradient(135deg, #D4714E, #b85535)',
                color: '#fff', border: 'none', borderRadius: 50, fontSize: 14, fontWeight: 600,
                fontFamily: "'Jost', sans-serif", cursor: 'pointer' },
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3
