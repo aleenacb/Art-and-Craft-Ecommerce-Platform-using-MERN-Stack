@@ -8,8 +8,5 @@ route.get("/user/:userId", getUserBookings)
 route.put("/updateStatus/:id", updateBookingStatus)
 route.put("/updatePaymentStatus/:id", updatePaymentStatus)
 
-<<<<<<< HEAD
 module.exports = route
-=======
-module.exports = route
->>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3
+
