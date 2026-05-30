@@ -32,8 +32,5 @@ app.get('/debug/users', async (req, res) => {
 
 app.listen(7000, () => {
   console.log("Server running on port 7000");
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> 82215cb8c94d441cfeccaf739c52fd84b83763c3
+
